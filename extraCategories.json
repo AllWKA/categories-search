@@ -1,0 +1,43 @@
+[
+  {
+    "name": "category1",
+    "subcategories": [
+      {
+        "name": "category1.1",
+        "subcategories": [
+          {
+            "name": "category1.1.1",
+            "subcategories": []
+          },
+          {
+            "name": "category1.1.2",
+            "subcategories": []
+          }
+        ]
+      },
+      {
+        "name": "category1.2",
+        "subcategories": [
+          {
+            "name": "category2",
+            "subcategories": [
+              {
+                "name": "category2.1",
+                "subcategories": []
+              },
+              {
+                "name": "category2.2",
+                "subcategories": [
+                  {
+                    "name": "category2.2.1",
+                    "subcategories": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
